@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\bin\Release\DateTime.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\bin\Release\DateTime.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\bin\Release\DateTime.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\obj\Release\DateTime.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\obj\Release\DateTime.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\Collections\bin\Debug\Collections.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\Collections\bin\Debug\Collections.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\Collections\bin\Debug\Collections.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\Collections\obj\Debug\Collections.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\Collections\obj\Debug\Collections.pdb

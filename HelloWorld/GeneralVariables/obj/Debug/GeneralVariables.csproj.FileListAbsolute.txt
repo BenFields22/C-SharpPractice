@@ -1,0 +1,5 @@
+C:\Users\Ben\documents\visual studio 2015\Projects\HelloWorld\GeneralVariables\bin\Debug\GeneralVariables.exe.config
+C:\Users\Ben\documents\visual studio 2015\Projects\HelloWorld\GeneralVariables\bin\Debug\GeneralVariables.exe
+C:\Users\Ben\documents\visual studio 2015\Projects\HelloWorld\GeneralVariables\bin\Debug\GeneralVariables.pdb
+C:\Users\Ben\documents\visual studio 2015\Projects\HelloWorld\GeneralVariables\obj\Debug\GeneralVariables.exe
+C:\Users\Ben\documents\visual studio 2015\Projects\HelloWorld\GeneralVariables\obj\Debug\GeneralVariables.pdb

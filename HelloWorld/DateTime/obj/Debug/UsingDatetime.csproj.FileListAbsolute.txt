@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\bin\Debug\DateTime.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\obj\Debug\DateTime.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\C#\HelloWorld\DateTime\obj\Debug\UsingDatetime.csprojResolveAssemblyReference.cache
